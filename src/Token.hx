@@ -1,0 +1,1 @@
+typedef Token = {type : String, literal : String, value : Float, line : Int};
